@@ -8,9 +8,9 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 develop
 - 'feature/*': week-wise topic branches containing the solutions
 
-==========================================================================================
+================================================================
 
-==========================================================================================
+================================================================
 
 
 ## Daily Task Update
@@ -27,7 +27,7 @@ develop
 ** Issues faced **
 - comparatively slow in finding real UseCases* for switch function (as it is a new concept for me)
 
-==========================================================================================
+================================================================
 
 ### Day 02 - 19 Sep 2026
 ** What I have done **
@@ -43,7 +43,7 @@ develop
 - Got real confused between understanding how I can apply Math.random for different ranges
 - Understood the issue and also learnt the Random library
 
-==========================================================================================
+================================================================
 
 
 ### Day 01 - 18 Sep 2026
@@ -60,9 +60,9 @@ develop
 - Confused between 'int' overflow and 'long' range; cleared it by
 printing MIN_VALUE and MAX_VALUE for both
 
-==========================================================================================
+================================================================
 
-==========================================================================================
+================================================================
 
 : this README with daily task updates
 : empty "Bridgelabz_Java" project skeleton
