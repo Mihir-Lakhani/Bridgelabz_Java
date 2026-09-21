@@ -57,8 +57,7 @@ develop
 - Start the javaControlFlow package (if-else and switch)
 
 ** Issues faced **
-- Confused between 'int' overflow and 'long' range; cleared it by
-printing MIN_VALUE and MAX_VALUE for both
+- Confused between different types of branch commands
 
 ================================================================
 
