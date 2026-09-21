@@ -1,32 +1,32 @@
 /*
-A program to find the number of rounds an athlete must run
-in a triangular park to complete 5 km.
+A program to find how many rounds an athlete must run
+around a triangular park to complete 5 km.
  */
 
 package Java_Programming_Elements.Level_2;
 import java.util.Scanner;
 
-public class TriangularPark {
+public class AthleteRounds {
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in); //Initialize scanner as sc
 
         System.out.println("Enter side 1 in meters: ");
-        double side1 = sc.nextDouble(); //Taking first side input
+        double side1 = sc.nextDouble();
 
         System.out.println("Enter side 2 in meters: ");
-        double side2 = sc.nextDouble(); //Taking second side input
+        double side2 = sc.nextDouble();
 
         System.out.println("Enter side 3 in meters: ");
-        double side3 = sc.nextDouble(); //Taking third side input
+        double side3 = sc.nextDouble();
 
-        //Calculate the perimeter of the triangular park
+        //Calculate perimeter of the triangular park
         double perimeter = side1 + side2 + side3;
 
-        //Convert 5 km to meters
+        //Distance to be covered is 5 km or 5000 meters
         double distance = 5000;
 
-        //Calculate the number of rounds
+        //Calculate number of rounds
         double rounds = distance / perimeter;
 
         //Print the number of rounds
