@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="876951e4-718e-449e-8f6b-07703ba3f5d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java Programming Elements/AvgOfSamMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Programming_Elements/Level_1/ProfitAndLoss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Bridgelabz_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bridgelabz_Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz_Java/AgeOfHarry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz_Java/AgeOfHarry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java Programming Elements/AgeOfHarry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java Programming Elements/AgeOfHarry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz_Java/ProfitAndLoss.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz_Java/ProfitAndLoss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java Programming Elements/AgeOfHarry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Programming_Elements/Level_1/AgeOfHarry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java Programming Elements/AvgOfSamMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Programming_Elements/Level_1/AvgOfSamMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java Programming Elements/KmToMiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Programming_Elements/Level_1/KmToMiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java Programming Elements/ProfitAndLoss.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +45,16 @@
   "keyToString": {
     "Application.AgeOfHarry.executor": "Run",
     "Application.AvgOfSamMarks.executor": "Run",
+    "Application.DoubleOperations.executor": "Run",
+    "Application.IntOperations.executor": "Run",
     "Application.KmToMiles.executor": "Run",
+    "Application.PensAndStudents.executor": "Run",
+    "Application.ProfitAndLoss.executor": "Run",
+    "Application.QuotientAndRemainder.executor": "Run",
+    "Application.SalaryAndBonus.executor": "Run",
+    "Application.StudentDiscount.executor": "Run",
+    "Application.Swap2Num.executor": "Run",
+    "Application.TemperatureConversion.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -61,6 +74,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mihir\Bridgelabz_Java\src\main\java\Java Programming Elements" />
+      <recent name="C:\Users\mihir\Bridgelabz_Java\src\main\java\Level 1" />
       <recent name="C:\Users\mihir\Bridgelabz_Java\src\main\java" />
     </key>
   </component>
