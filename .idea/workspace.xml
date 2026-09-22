@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="876951e4-718e-449e-8f6b-07703ba3f5d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Control_Flow/Level_3/AbundantNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Control_Flow/Level_3/AbundantNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Control_Flow/Level_3/AbundantNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Control_Flow/Level_3/AbundantNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,7 @@
     "Application.AvgHeightof11Players.executor": "Run",
     "Application.AvgOfSamMarks.executor": "Run",
     "Application.CountNoOfDigits.executor": "Run",
+    "Application.DayofWeek.executor": "Run",
     "Application.DivCheckby5.executor": "Run",
     "Application.DoubleOperations.executor": "Run",
     "Application.FactorOfNumber.executor": "Run",
@@ -64,6 +63,7 @@
     "Application.Swap2Num.executor": "Run",
     "Application.TemperatureConversion.executor": "Run",
     "Application.TenStudentsInClass.executor": "Run",
+    "Application.TwoDtoOneDArray.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -87,6 +87,60 @@
       <recent name="C:\Users\mihir\Bridgelabz_Java\src\main\java\Level 1" />
       <recent name="C:\Users\mihir\Bridgelabz_Java\src\main\java" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.DayofWeek">
+    <configuration name="CountNoOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Control_Flow.Level_3.CountNoOfDigits" />
+      <module name="Bridgelabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Control_Flow.Level_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayofWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Control_Flow.Level_3.DayofWeek" />
+      <module name="Bridgelabz_Java" />
+      <option name="PROGRAM_PARAMETERS" value="9 22 2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Control_Flow.Level_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDtoOneDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_1.TwoDtoOneDArray" />
+      <module name="Bridgelabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Arrays.Level_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CountNoOfDigits" />
+      <item itemvalue="Application.DayofWeek" />
+      <item itemvalue="Application.TwoDtoOneDArray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DayofWeek" />
+        <item itemvalue="Application.CountNoOfDigits" />
+        <item itemvalue="Application.TwoDtoOneDArray" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
