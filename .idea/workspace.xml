@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="876951e4-718e-449e-8f6b-07703ba3f5d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Control_Flow/Level_3/AbundantNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Control_Flow/Level_3/AbundantNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Control_Flow/Level_3/AbundantNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Control_Flow/Level_3/AbundantNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
     "Application.AbundantNumber.executor": "Run",
     "Application.AgeOfHarry.executor": "Run",
     "Application.Armstrong.executor": "Run",
+    "Application.AvgHeightof11Players.executor": "Run",
     "Application.AvgOfSamMarks.executor": "Run",
     "Application.CountNoOfDigits.executor": "Run",
     "Application.DivCheckby5.executor": "Run",
@@ -49,13 +52,18 @@
     "Application.IntOperations.executor": "Run",
     "Application.KmToMiles.executor": "Run",
     "Application.MultipleTillHundred.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.MultiplicationTable6to9.executor": "Run",
     "Application.PensAndStudents.executor": "Run",
+    "Application.PositiveEvenorOdd.executor": "Run",
     "Application.ProfitAndLoss.executor": "Run",
     "Application.QuotientAndRemainder.executor": "Run",
     "Application.SalaryAndBonus.executor": "Run",
+    "Application.StopAtZeroorNeg.executor": "Run",
     "Application.StudentDiscount.executor": "Run",
     "Application.Swap2Num.executor": "Run",
     "Application.TemperatureConversion.executor": "Run",
+    "Application.TenStudentsInClass.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

@@ -3,10 +3,11 @@
  */
 
 package Java_Control_Flow.Level_3;
+
 import java.util.Scanner;
 
 public class AbundantNumber {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in); //Initialize the Scanner as sc
 
@@ -15,11 +16,11 @@ public class AbundantNumber {
 
         int sum = 0;
 
-        for(int i=1; i<=num/2; i++){
-            if(num%i==0){
-                sum+=i;
+        for (int i = 1; i <= num / 2; i++) {
+            if (num % i == 0) {
+                sum += i;
             }
         }
-        System.out.printf("Is the number %d Abundant Number? %s", num, (num < sum)? "Yes":"No");
+        System.out.printf("Is the number %d Abundant Number? %s", num, (num < sum) ? "Yes" : "No");
     }
 }
