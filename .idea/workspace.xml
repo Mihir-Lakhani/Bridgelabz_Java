@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="876951e4-718e-449e-8f6b-07703ba3f5d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Programming_Elements/Level_2/Swap2Num.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Programming_Elements/Level_2/Swap2Num.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JcueKfw2dwGaZCVt8nBKj4ANHP" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -37,13 +36,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbundantNumber.executor": "Run",
     "Application.AgeOfHarry.executor": "Run",
+    "Application.Armstrong.executor": "Run",
     "Application.AvgOfSamMarks.executor": "Run",
+    "Application.CountNoOfDigits.executor": "Run",
     "Application.DivCheckby5.executor": "Run",
     "Application.DoubleOperations.executor": "Run",
+    "Application.FactorOfNumber.executor": "Run",
+    "Application.HarshadNumber.executor": "Run",
     "Application.IfFirstisSmallest.executor": "Run",
     "Application.IntOperations.executor": "Run",
     "Application.KmToMiles.executor": "Run",
+    "Application.MultipleTillHundred.executor": "Run",
     "Application.PensAndStudents.executor": "Run",
     "Application.ProfitAndLoss.executor": "Run",
     "Application.QuotientAndRemainder.executor": "Run",
