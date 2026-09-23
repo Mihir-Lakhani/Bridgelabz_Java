@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="876951e4-718e-449e-8f6b-07703ba3f5d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Methods/Level_1/TrigFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Methods/Level_1/TrigFunctions.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
     "Application.Armstrong.executor": "Run",
     "Application.AvgHeightof11Players.executor": "Run",
     "Application.AvgOfSamMarks.executor": "Run",
+    "Application.BonusOf10Emp.executor": "Run",
     "Application.CountNoOfDigits.executor": "Run",
     "Application.DayofWeek.executor": "Run",
     "Application.DivCheckby5.executor": "Run",
@@ -55,6 +57,7 @@
     "Application.IfFirstisSmallest.executor": "Run",
     "Application.IntOperations.executor": "Run",
     "Application.KmToMiles.executor": "Run",
+    "Application.LargestAnd2ndLargest.executor": "Run",
     "Application.MaxHandshakes.executor": "Run",
     "Application.MultipleTillHundred.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
@@ -64,6 +67,7 @@
     "Application.PositiveEvenorOdd.executor": "Run",
     "Application.ProfitAndLoss.executor": "Run",
     "Application.QuotientAndRemainder.executor": "Run",
+    "Application.ReverseTheNumber.executor": "Run",
     "Application.SalaryAndBonus.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
     "Application.SpringSeason.executor": "Run",
@@ -76,6 +80,7 @@
     "Application.TrigFunctions.executor": "Run",
     "Application.TwoDtoOneDArray.executor": "Run",
     "Application.WindChill.executor": "Run",
+    "Application.YoungestAndTallest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -100,13 +105,13 @@
       <recent name="C:\Users\mihir\Bridgelabz_Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TrigFunctions">
-    <configuration name="NChocolatesAmongMChildren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_1.NChocolatesAmongMChildren" />
+  <component name="RunManager" selected="Application.ReverseTheNumber">
+    <configuration name="BonusOf10Emp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_2.BonusOf10Emp" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_1.*" />
+          <option name="PATTERN" value="Java_Arrays.Level_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_1.SpringSeason" />
+    <configuration name="LargestAnd2ndLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_2.LargestAnd2ndLargest" />
       <module name="Bridgelabz_Java" />
-      <option name="PROGRAM_PARAMETERS" value="4 20" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_1.*" />
+          <option name="PATTERN" value="Java_Arrays.Level_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangularPark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_1.TriangularPark" />
+    <configuration name="ReverseTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_2.ReverseTheNumber" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_1.*" />
+          <option name="PATTERN" value="Java_Arrays.Level_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindChill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_1.WindChill" />
+    <configuration name="YoungestAndTallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_2.YoungestAndTallest" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_1.*" />
+          <option name="PATTERN" value="Java_Arrays.Level_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NChocolatesAmongMChildren" />
+      <item itemvalue="Application.BonusOf10Emp" />
+      <item itemvalue="Application.LargestAnd2ndLargest" />
+      <item itemvalue="Application.ReverseTheNumber" />
       <item itemvalue="Application.TrigFunctions" />
-      <item itemvalue="Application.WindChill" />
-      <item itemvalue="Application.SpringSeason" />
-      <item itemvalue="Application.TriangularPark" />
+      <item itemvalue="Application.YoungestAndTallest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseTheNumber" />
+        <item itemvalue="Application.LargestAnd2ndLargest" />
+        <item itemvalue="Application.YoungestAndTallest" />
+        <item itemvalue="Application.BonusOf10Emp" />
         <item itemvalue="Application.TrigFunctions" />
-        <item itemvalue="Application.WindChill" />
-        <item itemvalue="Application.NChocolatesAmongMChildren" />
-        <item itemvalue="Application.SpringSeason" />
-        <item itemvalue="Application.TriangularPark" />
       </list>
     </recent_temporary>
   </component>
