@@ -26,6 +26,7 @@ Level 2 and 3 of Java Methods
 ** Issues faced **
 - Learning about the meaning of static and public and the consequences of not writing them
   
+================================================================
 
 ### Day 04 - 22 Sep 2026
 ** What I have done **
@@ -38,6 +39,8 @@ Level 2 and 3 of Java Methods
 
 ** Issues faced **
 - comparatively slow in finding real UseCases* for switch function (as it is a new concept for me)
+
+================================================================
   
 ### Day 03 - 21 Sep 2026
 ** What I have done **
