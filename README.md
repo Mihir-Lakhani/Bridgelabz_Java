@@ -15,6 +15,30 @@ develop
 
 ## Daily Task Update
 
+### Day 05 - 23 Sep 2026
+** What I have done **
+- Level 1 of Java Methods
+- Level 2 of Java Arrays
+
+** What I will do **
+Level 2 and 3 of Java Methods
+
+** Issues faced **
+- Learning about the meaning of static and public and the consequences of not writing them
+  
+
+### Day 04 - 22 Sep 2026
+** What I have done **
+- Worked on Java programming elements remaining questions
+- Solved 28 Questions from Java Control Flow Assignment
+- (A few problems are still left from level 2 and full level 3 in Java Control Flow, which will be completed by the mid of this week)
+
+** What I will do **
+- Complete the remaining Assignment problems and hopefully from new assignments
+
+** Issues faced **
+- comparatively slow in finding real UseCases* for switch function (as it is a new concept for me)
+  
 ### Day 03 - 21 Sep 2026
 ** What I have done **
 - Worked on Java programming elements remaining questions
