@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="876951e4-718e-449e-8f6b-07703ba3f5d7" name="Changes" comment="">
+    <list default="true" id="0f413278-d513-4a99-8be5-1cdf8ab3b93b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Methods/Level_1/TrigFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Methods/Level_1/TrigFunctions.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +28,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3JcueKfw2dwGaZCVt8nBKj4ANHP" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Jlszg4tBg7uvU1RjiVnOO0lCCd" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -42,72 +42,47 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.AbundantNumber.executor": "Run",
-    "Application.AgeOfHarry.executor": "Run",
-    "Application.Armstrong.executor": "Run",
-    "Application.AvgHeightof11Players.executor": "Run",
-    "Application.AvgOfSamMarks.executor": "Run",
-    "Application.BonusOf10Emp.executor": "Run",
-    "Application.CountNoOfDigits.executor": "Run",
-    "Application.DayofWeek.executor": "Run",
-    "Application.DivCheckby5.executor": "Run",
-    "Application.DoubleOperations.executor": "Run",
-    "Application.FactorOfNumber.executor": "Run",
-    "Application.HarshadNumber.executor": "Run",
-    "Application.IfFirstisSmallest.executor": "Run",
-    "Application.IntOperations.executor": "Run",
-    "Application.KmToMiles.executor": "Run",
-    "Application.LargestAnd2ndLargest.executor": "Run",
-    "Application.MaxHandshakes.executor": "Run",
-    "Application.MultipleTillHundred.executor": "Run",
-    "Application.MultiplicationTable.executor": "Run",
-    "Application.MultiplicationTable6to9.executor": "Run",
-    "Application.NChocolatesAmongMChildren.executor": "Run",
-    "Application.PensAndStudents.executor": "Run",
-    "Application.PositiveEvenorOdd.executor": "Run",
-    "Application.ProfitAndLoss.executor": "Run",
-    "Application.QuotientAndRemainder.executor": "Run",
-    "Application.ReverseTheNumber.executor": "Run",
-    "Application.SalaryAndBonus.executor": "Run",
-    "Application.SimpleInterest.executor": "Run",
-    "Application.SpringSeason.executor": "Run",
-    "Application.StopAtZeroorNeg.executor": "Run",
-    "Application.StudentDiscount.executor": "Run",
-    "Application.Swap2Num.executor": "Run",
-    "Application.TemperatureConversion.executor": "Run",
-    "Application.TenStudentsInClass.executor": "Run",
-    "Application.TriangularPark.executor": "Run",
-    "Application.TrigFunctions.executor": "Run",
-    "Application.TwoDtoOneDArray.executor": "Run",
-    "Application.WindChill.executor": "Run",
-    "Application.YoungestAndTallest.executor": "Run",
+    "Application.FactorsOfnumber.executor": "Run",
+    "Application.FindTheBMI.executor": "Run",
+    "Application.Java_Methods.Level_2.YoungestAndTallest.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.NaturalNoSumUsingRecursion.executor": "Run",
+    "Application.RandomAverageMinMax.executor": "Run",
+    "Application.StudentVoteChecker.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "feature/coreProgramming",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mihir\Bridgelabz_Java\src\main\java\Java Programming Elements" />
-      <recent name="C:\Users\mihir\Bridgelabz_Java\src\main\java\Level 1" />
-      <recent name="C:\Users\mihir\Bridgelabz_Java\src\main\java" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.ReverseTheNumber">
-    <configuration name="BonusOf10Emp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_2.BonusOf10Emp" />
+  <component name="RunManager" selected="Application.FreqOfDigits">
+    <configuration name="FindTheBMIMultiDimArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_2.FindTheBMIMultiDimArray" />
+      <module name="Bridgelabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Methods.Level_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreqOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_2.FreqOfDigits" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
@@ -119,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestAnd2ndLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_2.LargestAnd2ndLargest" />
+    <configuration name="Java_Methods.Level_2.YoungestAndTallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_2.YoungestAndTallest" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Arrays.Level_2.*" />
+          <option name="PATTERN" value="Java_Methods.Level_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_2.ReverseTheNumber" />
+    <configuration name="RandomAverageMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_2.RandomAverageMinMax" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Arrays.Level_2.*" />
+          <option name="PATTERN" value="Java_Methods.Level_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrigFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_1.TrigFunctions" />
+    <configuration name="StudentVoteChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_2.StudentVoteChecker" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_1.*" />
+          <option name="PATTERN" value="Java_Methods.Level_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,33 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YoungestAndTallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_2.YoungestAndTallest" />
-      <module name="Bridgelabz_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Arrays.Level_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.BonusOf10Emp" />
-      <item itemvalue="Application.LargestAnd2ndLargest" />
-      <item itemvalue="Application.ReverseTheNumber" />
-      <item itemvalue="Application.TrigFunctions" />
-      <item itemvalue="Application.YoungestAndTallest" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseTheNumber" />
-        <item itemvalue="Application.LargestAnd2ndLargest" />
-        <item itemvalue="Application.YoungestAndTallest" />
-        <item itemvalue="Application.BonusOf10Emp" />
-        <item itemvalue="Application.TrigFunctions" />
+        <item itemvalue="Application.FreqOfDigits" />
+        <item itemvalue="Application.RandomAverageMinMax" />
+        <item itemvalue="Application.FindTheBMIMultiDimArray" />
+        <item itemvalue="Application.Java_Methods.Level_2.YoungestAndTallest" />
+        <item itemvalue="Application.StudentVoteChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -198,11 +153,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="876951e4-718e-449e-8f6b-07703ba3f5d7" name="Changes" comment="" />
-      <created>1789972771690</created>
+      <changelist id="0f413278-d513-4a99-8be5-1cdf8ab3b93b" name="Changes" comment="" />
+      <created>1790247256152</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1789972771690</updated>
+      <updated>1790247256152</updated>
     </task>
     <servers />
   </component>
