@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f413278-d513-4a99-8be5-1cdf8ab3b93b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Arrays/Level_2/FreqOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Arrays/Level_2/FreqOfDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Arrays/Level_2/FreqOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Arrays/Level_2/FreqOfDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,18 +42,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CalenderDisplay.executor": "Run",
+    "Application.Compare2Strings.executor": "Run",
     "Application.FactorsOfnumber.executor": "Run",
     "Application.FindTheBMI.executor": "Run",
     "Application.FreqOfDigits.executor": "Run",
     "Application.HarshadDuckPalindromeNumberChecker.executor": "Run",
     "Application.HarshadNumberChecker.executor": "Run",
+    "Application.IllegalArgumentExceptionDemo.executor": "Run",
     "Application.Java_Methods.Level_2.YoungestAndTallest.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.NaturalNoSumUsingRecursion.executor": "Run",
+    "Application.NullPointerExceptionDemo.executor": "Run",
+    "Application.NumberFormatExceptionDemo.executor": "Run",
     "Application.RandomAverageMinMax.executor": "Run",
     "Application.ShortestTallestAndMeanHeight.executor": "Run",
     "Application.SixDigitOTP.executor": "Run",
+    "Application.StringIndexOutOfBoundsExceptionDemo.executor": "Run",
     "Application.StudentVoteChecker.executor": "Run",
+    "Application.SubString.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -75,13 +79,13 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalenderDisplay">
-    <configuration name="CalenderDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_3.CalenderDisplay" />
+  <component name="RunManager" selected="Application.NumberFormatExceptionDemo">
+    <configuration name="IllegalArgumentExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Strings.Level_1.IllegalArgumentExceptionDemo" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_3.*" />
+          <option name="PATTERN" value="Java_Strings.Level_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FreqOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Arrays.Level_2.FreqOfDigits" />
+    <configuration name="NullPointerExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Strings.Level_1.NullPointerExceptionDemo" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Arrays.Level_2.*" />
+          <option name="PATTERN" value="Java_Strings.Level_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HarshadDuckPalindromeNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_3.HarshadDuckPalindromeNumberChecker" />
+    <configuration name="NumberFormatExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Strings.Level_1.NumberFormatExceptionDemo" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_3.*" />
+          <option name="PATTERN" value="Java_Strings.Level_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestTallestAndMeanHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_3.ShortestTallestAndMeanHeight" />
+    <configuration name="StringIndexOutOfBoundsExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Strings.Level_1.StringIndexOutOfBoundsExceptionDemo" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_3.*" />
+          <option name="PATTERN" value="Java_Strings.Level_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SixDigitOTP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_3.SixDigitOTP" />
+    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Strings.Level_1.SubString" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_3.*" />
+          <option name="PATTERN" value="Java_Strings.Level_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalenderDisplay" />
-        <item itemvalue="Application.SixDigitOTP" />
-        <item itemvalue="Application.HarshadDuckPalindromeNumberChecker" />
-        <item itemvalue="Application.ShortestTallestAndMeanHeight" />
-        <item itemvalue="Application.FreqOfDigits" />
+        <item itemvalue="Application.NumberFormatExceptionDemo" />
+        <item itemvalue="Application.IllegalArgumentExceptionDemo" />
+        <item itemvalue="Application.StringIndexOutOfBoundsExceptionDemo" />
+        <item itemvalue="Application.NullPointerExceptionDemo" />
+        <item itemvalue="Application.SubString" />
       </list>
     </recent_temporary>
   </component>
