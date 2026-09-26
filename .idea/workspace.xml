@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f413278-d513-4a99-8be5-1cdf8ab3b93b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Arrays/Level_2/FreqOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Arrays/Level_2/FreqOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Arrays/Level_2/FreqOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Arrays/Level_2/FreqOfDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +43,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalenderDisplay.executor": "Run",
     "Application.FactorsOfnumber.executor": "Run",
     "Application.FindTheBMI.executor": "Run",
+    "Application.FreqOfDigits.executor": "Run",
+    "Application.HarshadDuckPalindromeNumberChecker.executor": "Run",
+    "Application.HarshadNumberChecker.executor": "Run",
     "Application.Java_Methods.Level_2.YoungestAndTallest.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.NaturalNoSumUsingRecursion.executor": "Run",
     "Application.RandomAverageMinMax.executor": "Run",
+    "Application.ShortestTallestAndMeanHeight.executor": "Run",
+    "Application.SixDigitOTP.executor": "Run",
     "Application.StudentVoteChecker.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -64,16 +71,17 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FreqOfDigits">
-    <configuration name="FindTheBMIMultiDimArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_2.FindTheBMIMultiDimArray" />
+  <component name="RunManager" selected="Application.CalenderDisplay">
+    <configuration name="CalenderDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_3.CalenderDisplay" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_2.*" />
+          <option name="PATTERN" value="Java_Methods.Level_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_Methods.Level_2.YoungestAndTallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_2.YoungestAndTallest" />
+    <configuration name="HarshadDuckPalindromeNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_3.HarshadDuckPalindromeNumberChecker" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_2.*" />
+          <option name="PATTERN" value="Java_Methods.Level_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomAverageMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_2.RandomAverageMinMax" />
+    <configuration name="ShortestTallestAndMeanHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_3.ShortestTallestAndMeanHeight" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_2.*" />
+          <option name="PATTERN" value="Java_Methods.Level_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentVoteChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_2.StudentVoteChecker" />
+    <configuration name="SixDigitOTP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Methods.Level_3.SixDigitOTP" />
       <module name="Bridgelabz_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Methods.Level_2.*" />
+          <option name="PATTERN" value="Java_Methods.Level_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalenderDisplay" />
+        <item itemvalue="Application.SixDigitOTP" />
+        <item itemvalue="Application.HarshadDuckPalindromeNumberChecker" />
+        <item itemvalue="Application.ShortestTallestAndMeanHeight" />
         <item itemvalue="Application.FreqOfDigits" />
-        <item itemvalue="Application.RandomAverageMinMax" />
-        <item itemvalue="Application.FindTheBMIMultiDimArray" />
-        <item itemvalue="Application.Java_Methods.Level_2.YoungestAndTallest" />
-        <item itemvalue="Application.StudentVoteChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -163,5 +171,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
