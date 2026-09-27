@@ -33,8 +33,6 @@ public class ToLowerCase {
 
         System.out.println("User-defined result: " + userDefinedResult);
         System.out.println("Built-in result: " + builtInResult);
-        System.out.println("Both results are equal: " +
-                compareStrings(userDefinedResult, builtInResult));
-        sc.close();
+        System.out.println("Both results are equal: " + compareStrings(userDefinedResult, builtInResult));
     }
 }

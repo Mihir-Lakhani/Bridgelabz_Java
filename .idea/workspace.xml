@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0f413278-d513-4a99-8be5-1cdf8ab3b93b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Strings/Level_1/ArrayIndexOutOfBoundsExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Strings/Level_1/ArrayIndexOutOfBoundsExceptionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Strings/Level_1/ToLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Strings/Level_1/ToLowerCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,7 @@
     "Application.NullPointerExceptionDemo.executor": "Run",
     "Application.NumberFormatExceptionDemo.executor": "Run",
     "Application.RandomAverageMinMax.executor": "Run",
+    "Application.ReturnTheLength.executor": "Run",
     "Application.ShortestTallestAndMeanHeight.executor": "Run",
     "Application.SixDigitOTP.executor": "Run",
     "Application.StringIndexOutOfBoundsExceptionDemo.executor": "Run",
@@ -79,7 +82,7 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberFormatExceptionDemo">
+  <component name="RunManager" selected="Application.ReturnTheLength">
     <configuration name="IllegalArgumentExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Strings.Level_1.IllegalArgumentExceptionDemo" />
       <module name="Bridgelabz_Java" />
@@ -119,6 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReturnTheLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Strings.Level_2.ReturnTheLength" />
+      <module name="Bridgelabz_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Strings.Level_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringIndexOutOfBoundsExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Strings.Level_1.StringIndexOutOfBoundsExceptionDemo" />
       <module name="Bridgelabz_Java" />
@@ -132,26 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Strings.Level_1.SubString" />
-      <module name="Bridgelabz_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Strings.Level_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnTheLength" />
         <item itemvalue="Application.NumberFormatExceptionDemo" />
         <item itemvalue="Application.IllegalArgumentExceptionDemo" />
         <item itemvalue="Application.StringIndexOutOfBoundsExceptionDemo" />
         <item itemvalue="Application.NullPointerExceptionDemo" />
-        <item itemvalue="Application.SubString" />
       </list>
     </recent_temporary>
   </component>

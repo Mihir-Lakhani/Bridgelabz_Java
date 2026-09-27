@@ -2,7 +2,7 @@ package Java_Strings.Level_1;
 
 import java.util.Scanner;
 
-public class ArrayIndexOutOfBoundsException {
+public class ArrayIndexOutOfBoundsExceptionDemo {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
