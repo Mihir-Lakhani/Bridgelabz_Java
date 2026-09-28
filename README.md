@@ -10,7 +10,13 @@ develop
 
 ================================================================
 
+| Week | Topic                       | Branch                              | Status      |
+|------|-----------------------------|-------------------------------------|-------------|
+| 1    | Core Programming            | feature/coreProgramming             | In Progess  |
+| 2    | Object Oriented Programming | feature/object-oriented-programming | Pending     |
+
 ================================================================
+
 
 
 ## Daily Task Update
