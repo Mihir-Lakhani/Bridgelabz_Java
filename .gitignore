@@ -1,3 +1,11 @@
 .idea/
 *.iml
-out/
+*.class
+
+out/*
+!out/.gitkeep
+
+bin/
+target/
+.vscode/
+.DS_Store
