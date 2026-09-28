@@ -15,6 +15,46 @@ develop
 
 ## Daily Task Update
 
+
+### Day 08 - 26 Sep 2026
+** What I have done **
+- Learnt about Exceptions
+- Java Strings Level 1
+
+** What I will do **
+- Java Strings Level 2 and 3
+- Revise everything for the review
+
+** Issues faced **
+- Memorizing the exception names
+
+================================================================
+
+### Day 07 - 25 Sep 2026
+** What I have done **
+- Left out level 2 of Arrays
+- Methods Level 3
+
+** What I will do **
+- Level 1, 2 and 3 of Java Strings
+
+** Issues faced **
+- How i can use variables globally so that i can use them on different methods
+
+================================================================
+
+### Day 06 - 24 Sep 2026
+** What I have done **
+- Level 2 of Java Methods
+
+** What I will do **
+- Methods level 3
+
+** Issues faced **
+- Did not get enough time to complete more than  one level
+
+================================================================
+
 ### Day 05 - 23 Sep 2026
 ** What I have done **
 - Level 1 of Java Methods

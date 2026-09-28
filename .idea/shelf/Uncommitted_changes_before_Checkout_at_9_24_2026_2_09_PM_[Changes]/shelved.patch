@@ -1,0 +1,140 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"876951e4-718e-449e-8f6b-07703ba3f5d7\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Methods/Level_1/TrigFunctions.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Methods/Level_1/TrigFunctions.class\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3JcueKfw2dwGaZCVt8nBKj4ANHP\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.AbundantNumber.executor\": \"Run\",\r\n    \"Application.AgeOfHarry.executor\": \"Run\",\r\n    \"Application.Armstrong.executor\": \"Run\",\r\n    \"Application.AvgHeightof11Players.executor\": \"Run\",\r\n    \"Application.AvgOfSamMarks.executor\": \"Run\",\r\n    \"Application.BonusOf10Emp.executor\": \"Run\",\r\n    \"Application.CountNoOfDigits.executor\": \"Run\",\r\n    \"Application.DayofWeek.executor\": \"Run\",\r\n    \"Application.DivCheckby5.executor\": \"Run\",\r\n    \"Application.DoubleOperations.executor\": \"Run\",\r\n    \"Application.FactorOfNumber.executor\": \"Run\",\r\n    \"Application.HarshadNumber.executor\": \"Run\",\r\n    \"Application.IfFirstisSmallest.executor\": \"Run\",\r\n    \"Application.IntOperations.executor\": \"Run\",\r\n    \"Application.KmToMiles.executor\": \"Run\",\r\n    \"Application.LargestAnd2ndLargest.executor\": \"Run\",\r\n    \"Application.MaxHandshakes.executor\": \"Run\",\r\n    \"Application.MultipleTillHundred.executor\": \"Run\",\r\n    \"Application.MultiplicationTable.executor\": \"Run\",\r\n    \"Application.MultiplicationTable6to9.executor\": \"Run\",\r\n    \"Application.NChocolatesAmongMChildren.executor\": \"Run\",\r\n    \"Application.PensAndStudents.executor\": \"Run\",\r\n    \"Application.PositiveEvenorOdd.executor\": \"Run\",\r\n    \"Application.ProfitAndLoss.executor\": \"Run\",\r\n    \"Application.QuotientAndRemainder.executor\": \"Run\",\r\n    \"Application.ReverseTheNumber.executor\": \"Run\",\r\n    \"Application.SalaryAndBonus.executor\": \"Run\",\r\n    \"Application.SimpleInterest.executor\": \"Run\",\r\n    \"Application.SpringSeason.executor\": \"Run\",\r\n    \"Application.StopAtZeroorNeg.executor\": \"Run\",\r\n    \"Application.StudentDiscount.executor\": \"Run\",\r\n    \"Application.Swap2Num.executor\": \"Run\",\r\n    \"Application.TemperatureConversion.executor\": \"Run\",\r\n    \"Application.TenStudentsInClass.executor\": \"Run\",\r\n    \"Application.TriangularPark.executor\": \"Run\",\r\n    \"Application.TrigFunctions.executor\": \"Run\",\r\n    \"Application.TwoDtoOneDArray.executor\": \"Run\",\r\n    \"Application.WindChill.executor\": \"Run\",\r\n    \"Application.YoungestAndTallest.executor\": \"Run\",\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"git-widget-placeholder\": \"feature/coreProgramming\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.jshint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.jshint\": \"\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"python.packages.toolwindow.project.migrated.to.right.top.v2\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\mihir\\Bridgelabz_Java\\src\\main\\java\\Java Programming Elements\" />\r\n      <recent name=\"C:\\Users\\mihir\\Bridgelabz_Java\\src\\main\\java\\Level 1\" />\r\n      <recent name=\"C:\\Users\\mihir\\Bridgelabz_Java\\src\\main\\java\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.ReverseTheNumber\">\r\n    <configuration name=\"BonusOf10Emp\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Java_Arrays.Level_2.BonusOf10Emp\" />\r\n      <module name=\"Bridgelabz_Java\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Java_Arrays.Level_2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"LargestAnd2ndLargest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Java_Arrays.Level_2.LargestAnd2ndLargest\" />\r\n      <module name=\"Bridgelabz_Java\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Java_Arrays.Level_2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ReverseTheNumber\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Java_Arrays.Level_2.ReverseTheNumber\" />\r\n      <module name=\"Bridgelabz_Java\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Java_Arrays.Level_2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"TrigFunctions\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Java_Methods.Level_1.TrigFunctions\" />\r\n      <module name=\"Bridgelabz_Java\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Java_Methods.Level_1.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"YoungestAndTallest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Java_Arrays.Level_2.YoungestAndTallest\" />\r\n      <module name=\"Bridgelabz_Java\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Java_Arrays.Level_2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Application.BonusOf10Emp\" />\r\n      <item itemvalue=\"Application.LargestAnd2ndLargest\" />\r\n      <item itemvalue=\"Application.ReverseTheNumber\" />\r\n      <item itemvalue=\"Application.TrigFunctions\" />\r\n      <item itemvalue=\"Application.YoungestAndTallest\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.ReverseTheNumber\" />\r\n        <item itemvalue=\"Application.LargestAnd2ndLargest\" />\r\n        <item itemvalue=\"Application.YoungestAndTallest\" />\r\n        <item itemvalue=\"Application.BonusOf10Emp\" />\r\n        <item itemvalue=\"Application.TrigFunctions\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"876951e4-718e-449e-8f6b-07703ba3f5d7\" name=\"Changes\" comment=\"\" />\r\n      <created>1789972771690</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1789972771690</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f105e7713b68e2dcd68e658b7b871d64707dfdca)
++++ b/.idea/workspace.xml	(date 1790237567437)
+@@ -6,7 +6,6 @@
+   <component name="ChangeListManager">
+     <list default="true" id="876951e4-718e-449e-8f6b-07703ba3f5d7" name="Changes" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Methods/Level_1/TrigFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bridgelabz_Java/Java_Methods/Level_1/TrigFunctions.class" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -40,64 +39,64 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.AbundantNumber.executor": "Run",
+-    "Application.AgeOfHarry.executor": "Run",
+-    "Application.Armstrong.executor": "Run",
+-    "Application.AvgHeightof11Players.executor": "Run",
+-    "Application.AvgOfSamMarks.executor": "Run",
+-    "Application.BonusOf10Emp.executor": "Run",
+-    "Application.CountNoOfDigits.executor": "Run",
+-    "Application.DayofWeek.executor": "Run",
+-    "Application.DivCheckby5.executor": "Run",
+-    "Application.DoubleOperations.executor": "Run",
+-    "Application.FactorOfNumber.executor": "Run",
+-    "Application.HarshadNumber.executor": "Run",
+-    "Application.IfFirstisSmallest.executor": "Run",
+-    "Application.IntOperations.executor": "Run",
+-    "Application.KmToMiles.executor": "Run",
+-    "Application.LargestAnd2ndLargest.executor": "Run",
+-    "Application.MaxHandshakes.executor": "Run",
+-    "Application.MultipleTillHundred.executor": "Run",
+-    "Application.MultiplicationTable.executor": "Run",
+-    "Application.MultiplicationTable6to9.executor": "Run",
+-    "Application.NChocolatesAmongMChildren.executor": "Run",
+-    "Application.PensAndStudents.executor": "Run",
+-    "Application.PositiveEvenorOdd.executor": "Run",
+-    "Application.ProfitAndLoss.executor": "Run",
+-    "Application.QuotientAndRemainder.executor": "Run",
+-    "Application.ReverseTheNumber.executor": "Run",
+-    "Application.SalaryAndBonus.executor": "Run",
+-    "Application.SimpleInterest.executor": "Run",
+-    "Application.SpringSeason.executor": "Run",
+-    "Application.StopAtZeroorNeg.executor": "Run",
+-    "Application.StudentDiscount.executor": "Run",
+-    "Application.Swap2Num.executor": "Run",
+-    "Application.TemperatureConversion.executor": "Run",
+-    "Application.TenStudentsInClass.executor": "Run",
+-    "Application.TriangularPark.executor": "Run",
+-    "Application.TrigFunctions.executor": "Run",
+-    "Application.TwoDtoOneDArray.executor": "Run",
+-    "Application.WindChill.executor": "Run",
+-    "Application.YoungestAndTallest.executor": "Run",
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+-    "codeWithMe.voiceChat.enabledByDefault": "false",
+-    "git-widget-placeholder": "feature/coreProgramming",
+-    "kotlin-language-version-configured": "true",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.jshint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.jshint": "",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.AbundantNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.AgeOfHarry.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
++    &quot;Application.AvgHeightof11Players.executor&quot;: &quot;Run&quot;,
++    &quot;Application.AvgOfSamMarks.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BonusOf10Emp.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CountNoOfDigits.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DayofWeek.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DivCheckby5.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DoubleOperations.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FactorOfNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.HarshadNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.IfFirstisSmallest.executor&quot;: &quot;Run&quot;,
++    &quot;Application.IntOperations.executor&quot;: &quot;Run&quot;,
++    &quot;Application.KmToMiles.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LargestAnd2ndLargest.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaxHandshakes.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MultipleTillHundred.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MultiplicationTable6to9.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NChocolatesAmongMChildren.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PensAndStudents.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PositiveEvenorOdd.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ProfitAndLoss.executor&quot;: &quot;Run&quot;,
++    &quot;Application.QuotientAndRemainder.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ReverseTheNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SalaryAndBonus.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SimpleInterest.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SpringSeason.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StopAtZeroorNeg.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StudentDiscount.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Swap2Num.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TemperatureConversion.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TenStudentsInClass.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TriangularPark.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TrigFunctions.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TwoDtoOneDArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.WindChill.executor&quot;: &quot;Run&quot;,
++    &quot;Application.YoungestAndTallest.executor&quot;: &quot;Run&quot;,
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
++    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;feature/coreProgramming&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\mihir\Bridgelabz_Java\src\main\java\Java Programming Elements" />
