@@ -13,8 +13,8 @@ public class MenuCardUsingDoWhileAndSwitch {
         do{
             System.out.println("This is the menu card, enter item number to add the item in the cart");
             System.out.println("1. Pizza");
-            System.out.println("2. Sandwich");
-            System.out.println("3. Burger");
+            System.out.println("2. Burger");
+            System.out.println("3. Sandwich");
             System.out.println("0. End");
             id = sc.nextInt();
 
@@ -23,7 +23,7 @@ public class MenuCardUsingDoWhileAndSwitch {
                     System.out.println("Added Pizza");
                     count++;
                     cart = Arrays.copyOf(cart, count);
-                    cart[count-1] = "Pizza";
+                    cart[count-1] = "Pizzza";
                     break;
                 case 2:
                     System.out.println("Added Burger");
