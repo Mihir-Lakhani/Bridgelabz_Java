@@ -22,123 +22,123 @@ develop
 ## Daily Task Update
 
 ### Day 10 - 29 Sep 2026
-** What I have done **
+**What I have done**
 - Java Class and Objects Level 1 and 2
 - Internal working of them
 
-** What I will do **
+**What I will do**
 - Java Constructors, Access Modifiers, Instances vs Class
 - Revise everything for the review
 
-** Issues faced **
+**Issues faced**
 - Confused about the scope of default package protected
 
 ================================================================
 
 ### Day 09 - 28 Sep 2026
-** What I have done **
+**What I have done**
 - Revision of prev concepts
 - New concept of class and objects in java
 
-** What I will do **
+**What I will do**
 - Class and objects practice problems
 
-** Issues faced **
+**Issues faced**
 - Memorizing the Internal working theory
 
 ================================================================
 
 ### Day 08 - 26 Sep 2026
-** What I have done **
+**What I have done**
 - Learnt about Exceptions
 - Java Strings Level 1
 
-** What I will do **
+**What I will do**
 - Java Strings Level 2 and 3
 - Revise everything for the review
 
-** Issues faced **
+**Issues faced**
 - Memorizing the exception names
 
 ================================================================
 
 ### Day 07 - 25 Sep 2026
-** What I have done **
+**What I have done**
 - Left out level 2 of Arrays
 - Methods Level 3
 
-** What I will do **
+**What I will do**
 - Level 1, 2 and 3 of Java Strings
 
-** Issues faced **
+**Issues faced**
 - How i can use variables globally so that i can use them on different methods
 
 ================================================================
 
 ### Day 06 - 24 Sep 2026
-** What I have done **
+**What I have done**
 - Level 2 of Java Methods
 
-** What I will do **
+**What I will do**
 - Methods level 3
 
-** Issues faced **
+**Issues faced**
 - Did not get enough time to complete more than  one level
 
 ================================================================
 
 ### Day 05 - 23 Sep 2026
-** What I have done **
+**What I have done**
 - Level 1 of Java Methods
 - Level 2 of Java Arrays
 
-** What I will do **
+**What I will do**
 Level 2 and 3 of Java Methods
 
-** Issues faced **
+**Issues faced**
 - Learning about the meaning of static and public and the consequences of not writing them
   
 ================================================================
 
 ### Day 04 - 22 Sep 2026
-** What I have done **
+**What I have done**
 - Worked on Java programming elements remaining questions
 - Solved 28 Questions from Java Control Flow Assignment
 - (A few problems are still left from level 2 and full level 3 in Java Control Flow, which will be completed by the mid of this week)
 
-** What I will do **
+**What I will do**
 - Complete the remaining Assignment problems and hopefully from new assignments
 
-** Issues faced **
+**Issues faced**
 - comparatively slow in finding real UseCases* for switch function (as it is a new concept for me)
 
 ================================================================
   
 ### Day 03 - 21 Sep 2026
-** What I have done **
+**What I have done**
 - Worked on Java programming elements remaining questions
 - Solved 28 Questions from Java Control Flow Assignment
 - (A few problems are still left from level 2 and full level 3 in Java Control Flow, which will be completed by the mid of this week)
 
-** What I will do **
+**What I will do**
 - Complete the remaining Assignment problems and hopefully from new assignments
 
-** Issues faced **
+**Issues faced**
 - comparatively slow in finding real UseCases* for switch function (as it is a new concept for me)
 
 ================================================================
 
 ### Day 02 - 19 Sep 2026
-** What I have done **
+**What I have done**
 - Understood the concepts of loops in more detail
 - Implemented some of the types in IntelliJ IDEA
 - Completed 15 questions of different level Java Programming Elements Assignment
 
-** What I will do **
+**What I will do**
 - Complete the remaining Assignment problems
 - explore some useful libraries and functions that can help further in coding
 
-** Issues faced **
+**Issues faced**
 - Got real confused between understanding how I can apply Math.random for different ranges
 - Understood the issue and also learnt the Random library
 
@@ -146,16 +146,16 @@ Level 2 and 3 of Java Methods
 
 
 ### Day 01 - 18 Sep 2026
-** What I have done **
+**What I have done**
 - Set up the repository with main, develop and feature branches
 - Solved 5 problems on variables and data types
 (feature/coreProgramming > javaProgrammingElement)
 
-** What I will do **
+**What I will do**
 - Complete the remaining operator problems
 - Start the javaControlFlow package (if-else and switch)
 
-** Issues faced **
+**Issues faced**
 - Confused between different types of branch commands
 
 ================================================================
