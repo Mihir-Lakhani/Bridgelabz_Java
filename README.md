@@ -21,6 +21,32 @@ develop
 
 ## Daily Task Update
 
+### Day 10 - 29 Sep 2026
+** What I have done **
+- Java Class and Objects Level 1 and 2
+- Internal working of them
+
+** What I will do **
+- Java Constructors, Access Modifiers, Instances vs Class
+- Revise everything for the review
+
+** Issues faced **
+- Confused about the scope of default package protected
+
+================================================================
+
+### Day 09 - 28 Sep 2026
+** What I have done **
+- Revision of prev concepts
+- New concept of class and objects in java
+
+** What I will do **
+- Class and objects practice problems
+
+** Issues faced **
+- Memorizing the Internal working theory
+
+================================================================
 
 ### Day 08 - 26 Sep 2026
 ** What I have done **
