@@ -10,6 +10,12 @@ public class Experiment {
         this.b = b;
         System.out.println(b);
     }
+
+    static int add(int a, int b, Experiment obj){
+        obj.exp(a,b);
+        return obj.a + b;
+    }
+
     public static void main(String[] args) {
         Experiment obj1 = new Experiment();
         Experiment obj2 = new Experiment();
@@ -17,6 +23,7 @@ public class Experiment {
         System.out.println(obj2.b);
         obj1.exp(100, 500);
         System.out.println(obj2.b);
+        System.out.println(add(obj1.a, 4000, obj1));
 
     }
 
