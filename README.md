@@ -21,6 +21,20 @@ develop
 
 ## Daily Task Update
 
+### Day 11 - 30 Sep 2026
+**What I have done**
+- Completed Constructors, Access Modifiers and 
+- Internal working of them
+
+**What I will do**
+- Java Constructors, Access Modifiers, Instances vs Class
+- Revise everything for the review
+
+**Issues faced**
+- Confused about the scope of default package protected
+
+================================================================
+
 ### Day 10 - 29 Sep 2026
 **What I have done**
 - Java Class and Objects Level 1 and 2
