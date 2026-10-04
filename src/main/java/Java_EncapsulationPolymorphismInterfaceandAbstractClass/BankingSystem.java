@@ -9,7 +9,7 @@ Use encapsulation to secure account details and restrict unauthorized access.
 Demonstrate polymorphism by processing different account types and calculating interest dynamically.
  */
 
-package EncapsulationPolymorphismInterfaceandAbstractClass;
+package Java_EncapsulationPolymorphismInterfaceandAbstractClass;
 
 import java.util.List;
 import java.util.ArrayList;

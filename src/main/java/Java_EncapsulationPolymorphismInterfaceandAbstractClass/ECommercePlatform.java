@@ -1,7 +1,5 @@
-package EncapsulationPolymorphismInterfaceandAbstractClass;
+package Java_EncapsulationPolymorphismInterfaceandAbstractClass;
 
-import java.util.Scanner;
-import java.util.List;
 import java.util.ArrayList;
 
 abstract class Product implements Taxable{

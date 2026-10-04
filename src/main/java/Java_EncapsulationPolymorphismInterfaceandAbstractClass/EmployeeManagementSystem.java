@@ -9,7 +9,7 @@ Create an interface Department with methods like assignDepartment() and getDepar
 Ensure polymorphism by processing a list of employees and displaying their details using the Employee reference.
  */
 
-package EncapsulationPolymorphismInterfaceandAbstractClass;
+package Java_EncapsulationPolymorphismInterfaceandAbstractClass;
 
 import java.util.*;
 
