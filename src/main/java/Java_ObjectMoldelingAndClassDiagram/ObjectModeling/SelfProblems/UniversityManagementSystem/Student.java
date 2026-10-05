@@ -8,7 +8,6 @@ class Student {
 
     private String studentName;
     private String studentid;
-    private Professor professor;
     ArrayList<Course> courses = new ArrayList<>();
 
     Student(String studentName, String studentid){
@@ -25,12 +24,14 @@ class Student {
     }
 
     void enrollCourse(Course course){
+        if (!courses.contains(course)){
         courses.add(course);
+        course.setStudent(this);
+            System.out.printf("Student %s (%s) is now Enrolled %s Course\n", getStudentName(), getStudentid(), course.getCourseName());
+        }else{
+            System.out.printf("Student %s (%s) is Already Enrolled %s Course\n", getStudentName(), getStudentid(), course.getCourseName());
+        }
     }
 
-    void assignProfessor(Professor professor){
-        professor.addStudent(this);
-        this.professor = professor;
 
-    }
 }
