@@ -13,13 +13,67 @@ develop
 | Week | Topic                       | Branch                              | Status      |
 |------|-----------------------------|-------------------------------------|-------------|
 | 1    | Core Programming            | feature/coreProgramming             | Completed   |
-| 2    | Object Oriented Programming | feature/object-oriented-programming | In Progress |
+| 2    | Object Oriented Programming | feature/object-oriented-programming | Completed   |
+| 3    | DSA                         | feature/dsa                         | In Progress |
+
 
 ================================================================
 
 
 
 ## Daily Task Update
+
+### Day 15 - 5 Oct 2026
+**What I have done**
+- Revised Every concept of OOPs again
+- Did some practice questions on association, aggregation and composition
+
+**What I will do**
+- Explore the Topics of DSA and start practicing
+
+**Issues faced**
+- Confusion between the restriction difference in Abstract and Interface Classes
+
+================================================================
+
+### Day 13 - 3 Oct 2026
+**What I have done**
+- Completed Inheritance
+- Understood all the Concepts of Polymorphism, Abstraction and Encapsulation
+
+**What I will do**
+- Revise everything again for the Review
+- Complete the Questions on the Understood topics.
+
+**Issues faced**
+- couldn't understand the Exact theoretical difference between Association and Aggregation (but finally did)
+
+================================================================
+
+### Holiday - 2 Oct 2026
+**What I have done**
+- Completed Every task till day 2 of Object oriented programming
+
+**What I will do**
+- Explore some new methods
+
+**Issues faced**
+- Honestly and Fortunately no issue faced
+
+================================================================
+
+### Day 12 - 1 Oct 2026
+**What I have done**
+- Completed this staic final and instance of keywords question
+- started aggregation and composition
+
+**What I will do**
+- complete problems on aggregation and composition
+
+**Issues faced**
+- Honestly and Fortunately no issue faced
+
+================================================================
 
 ### Day 11 - 30 Sep 2026
 **What I have done**
