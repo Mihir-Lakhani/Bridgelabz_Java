@@ -6,6 +6,7 @@ class Faculty {
 
     private String facultyName;
     private Department department;
+    //<ArrayLIST>
 
     Faculty(String facultyName){
         this.facultyName = facultyName;

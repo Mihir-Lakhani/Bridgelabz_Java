@@ -16,7 +16,7 @@ public class Main {
         Course c2 = new Course("Product Manager", "PM01");
 
         c1.addStudent(s1);
-        s1.addCourse(c1);
+        //s1.addCourse(c1);
 
         c1.addStudent(s2);
         s2.addCourse(c1);

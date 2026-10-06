@@ -24,6 +24,7 @@ class Student {
     }
 
     void addCourse(Course course){
+
         courses.add(course);
     }
 
@@ -35,3 +36,5 @@ class Student {
         }
     }
 }
+// c1 c2 c3 c4
+// c1.name c1.id

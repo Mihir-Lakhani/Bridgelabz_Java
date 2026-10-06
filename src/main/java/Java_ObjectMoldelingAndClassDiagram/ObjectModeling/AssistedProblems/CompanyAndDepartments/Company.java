@@ -12,10 +12,7 @@ class Company {
     }
 
     void addDepartment(String departmentName){
-        if (deleted){
-            System.out.println("Cannot add a department to a deleted company.");
-            return;
-        }
+
 
         for (Department department : departments){
             if (department.getName().equals(departmentName)){

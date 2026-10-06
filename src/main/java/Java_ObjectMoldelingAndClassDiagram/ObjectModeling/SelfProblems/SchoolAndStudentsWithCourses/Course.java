@@ -17,7 +17,9 @@ class Course {
     }
 
     void addStudent(Student s1){
+
         enrolledStudents.add(s1);
+        s1.addCourse(this);
     }
 
     void showEnrolledStudents(){

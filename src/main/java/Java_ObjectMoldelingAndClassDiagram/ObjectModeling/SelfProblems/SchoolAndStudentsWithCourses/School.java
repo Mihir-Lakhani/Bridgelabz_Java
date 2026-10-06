@@ -9,6 +9,10 @@ class School {
     private String schoolName;
     private ArrayList<Course> courses;
 
+// c1 c2
+    //c1 <Students>
+    //c2 <Students>
+
     School(String schoolName){
         this.schoolName = schoolName;
         courses = new ArrayList<>();
@@ -20,10 +24,13 @@ class School {
 
     void showDetails(){
         for (Course course : courses){
+            //c1
             System.out.println("Course: "+course.getCourseName());
             System.out.println("Students: ");
             course.showEnrolledStudents();
         }
     }
+    //for(int i:list)
 
 }
+

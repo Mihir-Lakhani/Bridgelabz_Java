@@ -15,7 +15,7 @@ public class Main {
 
         University u = new University("SRM-ktr");
 
-        Department cse = u.addDepartment("CSE");
+        Department cse = u.addDepartment("CSE"); //new Dep
         Department ece = u.addDepartment("ECE");
 
         cse.addFaculty(f1, u);
