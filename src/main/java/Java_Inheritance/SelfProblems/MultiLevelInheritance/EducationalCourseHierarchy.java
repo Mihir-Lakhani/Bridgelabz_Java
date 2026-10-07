@@ -4,7 +4,7 @@ Course -> OnlineCourse -> PaidOnlineCourse
 Each level adds its own course details.
  */
 
-package Java_Inheritance.SelfProblems.MultilevelInheritance;
+package Java_Inheritance.SelfProblems.MultiLevelInheritance;
 
 class Course {
     String courseName;
