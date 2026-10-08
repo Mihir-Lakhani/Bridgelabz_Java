@@ -1,4 +1,4 @@
-# Bridgelabz Java
+# BridgeLabz Java
 
 Java assignments and practice problems completed as part of the
 BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
@@ -23,7 +23,33 @@ develop
 
 ## Daily Task Update
 
+### Day 18 - 8 Oct 2026
+**What I have done**
+- completed linked lists
+- Completed Stacks and Queue
+- Completed 4 Sorting Algorithms
 
+**What I will do**
+- Complete hashmap hashing and sorting Practice Problems that are remaining
+
+**Issues faced**
+- Struggling to understand the concepts theory part due to less time (But will catch up by the Review 3)
+
+================================================================
+
+### Day 17 - 7 Oct 2026
+**What I have done**
+- Learnt some in depth concepts in Linked List 
+- Revised all OOPs concepts again
+
+**What I will do**
+- Complete Linked List Practice Problems
+- Start new tasks that will be given
+
+**Issues faced**
+- Didn't get enough time to complete everything I planned
+
+================================================================
 
 ### Day 16 - 6 Oct 2026
 **What I have done**
