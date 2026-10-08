@@ -22,16 +22,10 @@ develop
 
 
 ## Daily Task Update
-Day 15 - 5 Oct 2026
-What I have done
-Started learning Data Structures starting
-Implemented LinkedList without using libraries
-What I will do
-Complete Linked List Practice Problems
-Start new tasks that will be given
 
 
-### Day 16 - 5 Oct 2026
+
+### Day 16 - 6 Oct 2026
 **What I have done**
 - Started learning Data Structures starting
 - Implemented LinkedList without using libraries
