@@ -23,17 +23,29 @@ develop
 
 ## Daily Task Update
 
-### Day 18 - 8 Oct 2026
+### Day 20 - 10 Oct 2026
 **What I have done**
-- completed linked lists
-- Completed Stacks and Queue
-- Completed 4 Sorting Algorithms
+- Completed HashMaps
+- Completed a few Sorting Problems
 
 **What I will do**
-- Complete hashmap hashing and sorting Practice Problems that are remaining
+- Complete Every Remaining Concept of Data Structure by 12 Oct(Before Review 2)
 
 **Issues faced**
-- Struggling to understand the concepts theory part due to less time (But will catch up by the Review 3)
+- Implementation Part is getting Stronger but the theoretical in depth is not as strong as practical
+
+================================================================
+
+### Day 19 - 9 Oct 2026
+**What I have done**
+- Completed StringBuilder StringBuffer
+- Completed BufferedReader, FileReader, InputStreamReader
+
+**What I will do**
+- Complete Searching, 3 Sorting Problems and Hashmap and Hashing functions
+
+**Issues faced**
+- Struggling to understand the concepts theory part due to less time (Update: Started catching up a few concepts)
 
 ================================================================
 
@@ -181,7 +193,7 @@ develop
 - Level 1, 2 and 3 of Java Strings
 
 **Issues faced**
-- How i can use variables globally so that i can use them on different methods
+- How I can use variables globally so that I can use them on different methods
 
 ================================================================
 
