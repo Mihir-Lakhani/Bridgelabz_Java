@@ -4,11 +4,8 @@ Problem: For each day in a stock price array, calculate the span (number of cons
 Hint: Use a stack to keep track of indices of prices in descending order.
  */
 
-package Java_StackQueueHashMapAndHashing;
+package Java_StackQueueHashMapAndHashing.StacksAndQueue;
 
-import java.util.Scanner;
-import java.util.List;
-import java.util.ArrayList;
 import java.util.Stack;
 
 public class StockSpanProblem {

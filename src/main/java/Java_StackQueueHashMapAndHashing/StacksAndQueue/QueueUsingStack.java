@@ -4,11 +4,8 @@ Problem: Design a queue using two stacks such that enqueue and dequeue operation
 Hint: Use one stack for enqueue and another stack for dequeue. Transfer elements between stacks as needed.
  */
 
-package Java_StackQueueHashMapAndHashing;
+package Java_StackQueueHashMapAndHashing.StacksAndQueue;
 
-import java.util.Scanner;
-import java.util.List;
-import java.util.ArrayList;
 import java.util.Stack;
 
 public class QueueUsingStack {

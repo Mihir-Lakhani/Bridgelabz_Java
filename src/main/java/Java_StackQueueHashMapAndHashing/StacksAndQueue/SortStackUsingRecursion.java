@@ -4,11 +4,8 @@ Problem: Given a stack, sort its elements in ascending order using recursion.
 Hint: Pop elements recursively, sort the remaining stack, and insert the popped element back at the correct position.
  */
 
-package Java_StackQueueHashMapAndHashing;
+package Java_StackQueueHashMapAndHashing.StacksAndQueue;
 
-import java.util.Scanner;
-import java.util.List;
-import java.util.ArrayList;
 import java.util.Stack;
 
 public class SortStackUsingRecursion {
