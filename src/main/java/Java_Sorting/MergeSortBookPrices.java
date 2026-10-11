@@ -3,51 +3,34 @@ package Java_Sorting;
 import java.util.Arrays;
 
 public class MergeSortBookPrices {
+    static void mergeSort(int[] arr) {
+        if (arr.length < 2) return;
 
-    static void mergeSort(double[] prices, int left, int right) {
-        if (left >= right) {
-            return;
-        }
+        int mid = arr.length / 2;
+        int[] left = Arrays.copyOfRange(arr, 0, mid);
+        int[] right = Arrays.copyOfRange(arr, mid, arr.length);
 
-        int mid = left + (right - left) / 2;
+        mergeSort(left);
+        mergeSort(right);
 
-        mergeSort(prices, left, mid);
-        mergeSort(prices, mid + 1, right);
-        merge(prices, left, mid, right);
-    }
+        int i = 0, j = 0, k = 0;
 
-    static void merge(double[] prices, int left, int mid, int right) {
-        double[] temp = new double[right - left + 1];
-        int i = left;
-        int j = mid + 1;
-        int k = 0;
-
-        while (i <= mid && j <= right) {
-            if (prices[i] <= prices[j]) {
-                temp[k++] = prices[i++];
+        while (i < left.length && j < right.length) {
+            if (left[i] <= right[j]) {
+                arr[k++] = left[i++];
             } else {
-                temp[k++] = prices[j++];
+                arr[k++] = right[j++];
             }
         }
 
-        while (i <= mid) {
-            temp[k++] = prices[i++];
-        }
-
-        while (j <= right) {
-            temp[k++] = prices[j++];
-        }
-
-        for (int index = 0; index < temp.length; index++) {
-            prices[left + index] = temp[index];
-        }
+        while (i < left.length) arr[k++] = left[i++];
+        while (j < right.length) arr[k++] = right[j++];
     }
 
     public static void main(String[] args) {
-        double[] prices = {499.50, 199.00, 350.75, 150.25, 299.99};
+        int[] arr = {5, 2, 8, 1, 3};
 
-        System.out.println("Before: " + Arrays.toString(prices));
-        mergeSort(prices, 0, prices.length - 1);
-        System.out.println("After:  " + Arrays.toString(prices));
+        mergeSort(arr);
+        System.out.println(Arrays.toString(arr));
     }
 }
