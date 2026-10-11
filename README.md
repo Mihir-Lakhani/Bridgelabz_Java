@@ -14,7 +14,7 @@ develop
 |------|-----------------------------|-------------------------------------|-------------|
 | 1    | Core Programming            | feature/coreProgramming             | Completed   |
 | 2    | Object Oriented Programming | feature/object-oriented-programming | Completed   |
-| 3    | DSA                         | feature/dsa                         | In Progress |
+| 3    | DSA                         | feature/dsa                         | Completed   |
 
 
 ================================================================
