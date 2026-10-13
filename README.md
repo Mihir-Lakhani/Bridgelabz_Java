@@ -15,6 +15,7 @@ develop
 | 1    | Core Programming            | feature/coreProgramming             | Completed   |
 | 2    | Object Oriented Programming | feature/object-oriented-programming | Completed   |
 | 3    | DSA                         | feature/dsa                         | Completed   |
+| 3    | Collections & Streams       | feature/collections-streams         | In Progress |
 
 
 ================================================================
@@ -22,6 +23,31 @@ develop
 
 
 ## Daily Task Update
+
+### Day 22 - Date: 13 Oct 2026
+**What I have done**
+Collections generics, wildcards and some other concepts
+
+**What I will do**
+Complete the Questions on the Collections Dpp
+
+**Issues faced**
+Fortunately none
+
+================================================================
+
+### Day 21 - Date: 12 Oct 2026
+**What I have done**
+- Revised all the topics of linear data structure.
+- Started learning about collection framework
+
+**What I will do**
+- Complete the task assigned for collection framework
+
+**Issues faced**
+- Fortunately no issues faced
+
+================================================================
 
 ### Day 20 - 10 Oct 2026
 **What I have done**
