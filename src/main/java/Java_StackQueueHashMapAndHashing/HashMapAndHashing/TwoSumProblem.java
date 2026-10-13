@@ -11,18 +11,19 @@ public class TwoSumProblem {
 
         HashMap<Integer, ArrayList<Integer>> map = new HashMap<>();
 
-        ArrayList<ArrayList<Integer>> indices = new ArrayList<>();
+        ArrayList<ArrayList<Integer>> indices = new ArrayList<>(); //[ [ ], [ ] ]
 
         for (int i = 0; i < arr.length; i++){
             int partner = k - arr[i];
+
             if (map.containsKey(partner)){
 
                 for(int j = 0; j < map.get(partner).size(); j++){
-                    ArrayList<Integer> newRow = new ArrayList<>();
-                    newRow.add(i);
-                    ArrayList<Integer> partnerVal = map.get(partner);
-                    newRow.add(partnerVal.get(j));
-                    indices.add(newRow);
+                    ArrayList<Integer> nestedIndices = new ArrayList<>();
+                    ArrayList<Integer> partnerIndices = map.get(partner);
+                    nestedIndices.add(i);
+                    nestedIndices.add(partnerIndices.get(j));
+                    indices.add(nestedIndices);
                 }
             }
             ArrayList<Integer> row =  map.getOrDefault(arr[i], new ArrayList<>());

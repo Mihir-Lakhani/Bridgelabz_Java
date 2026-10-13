@@ -16,13 +16,14 @@ public class SlidingWindow {
         }
 
         Deque<Integer> deque = new ArrayDeque<>();
+
         int[] ans = new int[arr.length - k + 1];
+
         for (int i=0; i<arr.length; i++){
 
             while(!deque.isEmpty() && deque.peekFirst() < i-k+1){
                 deque.pollFirst();
             }
-
 
 
             while(!deque.isEmpty() && arr[deque.peekLast()] < arr[i]){
