@@ -1,109 +1,100 @@
 package Java_Generics;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
+// Generics assignment 4: generate typed Vegetarian, Vegan, Keto and High-Protein meals.
 public class PersonalizedMealPlanner {
 
-    static interface MealPlan{
+    interface MealPlan {
         void addIngredients();
         List<String> getIngredients();
+        String getName();
     }
 
-    static class VegetarianMeal implements MealPlan{
-        String name;
-        List<String> ingredients = new ArrayList<>();
+    // Common meal information is reused; each subclass supplies its category.
+    abstract static class BasicMeal implements MealPlan {
+        final String name;
+        final List<String> ingredients = new ArrayList<>();
 
-        VegetarianMeal(String name){
-            this.name =name;
-        }
+        BasicMeal(String name) { this.name = name; }
+        public String getName() { return name; }
+        public List<String> getIngredients() { return ingredients; }
+        abstract String category();
 
-        @Override
-        public void addIngredients(){
-            System.out.println(getName());
-            System.out.println("Vegetarian Ing --> starting to prepare the meal");
-        }
-
-        @Override
-        public List<String> getIngredients(){
-            return ingredients;
-        }
-
-        public String getName() {
-            return name;
+        public void addIngredients() {
+            System.out.println(name + " | " + category() + " --> preparing the meal");
         }
     }
 
-
-    static class VeganMeal implements MealPlan{
-        String name;
-        List<String> ingredients = new ArrayList<>();
-
-        VeganMeal(String name){
-            this.name =name;
-        }
-
-        @Override
-        public void addIngredients(){
-            System.out.println(getName());
-            System.out.println("Vegan Ing --> starting to prepare the meal");
-        }
-
-        @Override
-        public List<String> getIngredients(){
-            return ingredients;
-        }
-
-        public String getName() {
-            return name;
-        }
+    static class VegetarianMeal extends BasicMeal {
+        VegetarianMeal(String name) { super(name); }
+        String category() { return "Vegetarian"; }
     }
 
-    static class Meal<T extends MealPlan>{
-        T plan;
-        Meal(T plan){
-            this.plan = plan;
-        }
+    static class VeganMeal extends BasicMeal {
+        VeganMeal(String name) { super(name); }
+        String category() { return "Vegan"; }
+    }
 
-        public T getPlan() {
-            return plan;
-        }
+    static class KetoMeal extends BasicMeal {
+        KetoMeal(String name) { super(name); }
+        String category() { return "Keto"; }
+    }
 
-        void prepare(){
+    static class HighProteinMeal extends BasicMeal {
+        HighProteinMeal(String name) { super(name); }
+        String category() { return "High-Protein"; }
+    }
+
+    static class Meal<T extends MealPlan> {
+        final T plan;
+        Meal(T plan) { this.plan = plan; }
+        public T getPlan() { return plan; }
+
+        void prepare() {
             plan.addIngredients();
             System.out.println(plan.getIngredients());
         }
     }
 
-    static <T extends MealPlan> Meal<T> addMeal(T plan){
+    // Structural validation; the assignment supplies no nutritional rules/database.
+    static <T extends MealPlan> Meal<T> addMeal(T plan) {
+        if (plan == null || plan.getName() == null || plan.getName().trim().isEmpty()
+                || plan.getIngredients() == null || plan.getIngredients().isEmpty()) {
+            System.out.println("A meal needs a name and ingredients");
+            return null;
+        }
+        for (String ingredient : plan.getIngredients()) {
+            if (ingredient == null || ingredient.trim().isEmpty()) {
+                System.out.println("Ingredients cannot be blank");
+                return null;
+            }
+        }
         return new Meal<>(plan);
     }
 
-
     public static void main(String[] args) {
-
         VegetarianMeal v1 = new VegetarianMeal("Pasta");
-        VegetarianMeal v2 = new VegetarianMeal("Maggie");
         v1.ingredients.add("Macaroni");
-        v1.ingredients.add("pasta masala");
-        v2.ingredients.add("noodles");
-        v2.ingredients.add("maggie masala");
-
+        v1.ingredients.add("Pasta masala");
         VeganMeal p1 = new VeganMeal("Avocado Sandwich");
-        VeganMeal p2 = new VeganMeal("Eggs hehe");
         p1.ingredients.add("Avocado");
         p1.ingredients.add("Bread");
-        p2.ingredients.add("chicken");
-        p2.ingredients.add("it's eggs");
+        KetoMeal k1 = new KetoMeal("Paneer Salad");
+        k1.ingredients.add("Paneer");
+        k1.ingredients.add("Lettuce");
+        HighProteinMeal h1 = new HighProteinMeal("Lentil Bowl");
+        h1.ingredients.add("Lentils");
+        h1.ingredients.add("Tofu");
 
-
-        Meal<VegetarianMeal> pasta = new Meal<>(v1);
-        Meal<VegetarianMeal> maggie = new Meal<>(v2);
-        Meal<VeganMeal> avocadoSandwich= addMeal(p1);
-        Meal<VeganMeal> eggs = new Meal<>(p2);
-
-        pasta.prepare();
-        maggie.prepare();
-        avocadoSandwich.prepare();
-        eggs.prepare();
+        Meal<VegetarianMeal> pasta = addMeal(v1);
+        Meal<VeganMeal> avocadoSandwich = addMeal(p1);
+        Meal<KetoMeal> keto = addMeal(k1);
+        Meal<HighProteinMeal> protein = addMeal(h1);
+        if (pasta != null) pasta.prepare();
+        if (avocadoSandwich != null) avocadoSandwich.prepare();
+        if (keto != null) keto.prepare();
+        if (protein != null) protein.prepare();
     }
 }
