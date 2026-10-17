@@ -5,24 +5,72 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Repository Structure
 - main'
-develop
+- 'develop'
 - 'feature/*': week-wise topic branches containing the solutions
 
 ================================================================
 
-| Week | Topic                       | Branch                              | Status      |
-|------|-----------------------------|-------------------------------------|-------------|
-| 1    | Core Programming            | feature/coreProgramming             | Completed   |
-| 2    | Object Oriented Programming | feature/object-oriented-programming | Completed   |
-| 3    | DSA                         | feature/dsa                         | Completed   |
-| 3    | Collections & Streams       | feature/collections-streams         | In Progress |
-
+| Week | Topic                       | Branch                              | Status      | Review (5) |
+|------|-----------------------------|-------------------------------------|-------------|------------|
+| 1    | Core Programming            | feature/coreProgramming             | Completed   | 3.78       |
+| 2    | Object Oriented Programming | feature/object-oriented-programming | Completed   | 3.79       |
+| 3    | DSA                         | feature/data-structure              | Completed   | 3.80       |
+| 4    | Collections & Streams       | feature/collections-streams         | In Progress | -          |
 
 ================================================================
 
 
 
 ## Daily Task Update
+
+### Day 25 - Date: 16 Oct 2026
+**What I have done**
+- Gave the review 4 on Collections, Java 8 features, Generics
+- Started learning about Exception Handling
+
+**What I will do**
+- Stream API practice on questions
+
+**Issues faced**
+Didn't get enough time to practice on questions (Will catch up soon)
+
+================================================================
+
+### Day 25 - Date: 16 Oct 2026
+**What I have done**
+- Complete java 8 features and enhancements and Streams
+
+**What I will do**
+-Start new week topics
+
+**Issues faced**
+Didn't get enough time to practice on questions (Will catch up soon)
+
+================================================================
+
+### Day 24 - Date: 15 Oct 2026
+**What I have done**
+- Implemented wildcard in questions 
+- Completed theoretical concepts of Collections
+
+**What I will do**
+- Complete the Questions on the Collections Dpp
+
+**Issues faced**
+- Confused between the usage differences between type parameter(<T>) and wildcard(<?>)
+
+================================================================
+### Day 23 - Date: 14 Oct 2026 (took day off due to fever - worked from home)
+**What I have done**
+- Learnt theoretical concepts of generics, wildcards and their use.
+
+**What I will do**
+- Learn about collections and the implementation of above theoretical concepts in Collections.
+
+**Issues faced**
+- No Issues Faced fortunately
+
+================================================================
 
 ### Day 22 - Date: 13 Oct 2026
 **What I have done**
