@@ -1,94 +1,117 @@
 package Java_Streams.AddressBookSystem;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.TreeMap;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
-// One integrated implementation of Week 4 Streams UC7-UC12.
 public class AddressBookService {
-    private final Map<String, AddressBook> books = new LinkedHashMap<>();
+    Map<String, AddressBook> books = new LinkedHashMap<>();
 
     public boolean createBook(String name) {
-        if (name == null || name.trim().isEmpty() || books.containsKey(name.trim())) return false;
-        books.put(name.trim(), new AddressBook());
+        if (name == null || name.trim().isEmpty() || books.containsKey(name)) {
+            return false;
+        }
+        books.put(name, new AddressBook());
         return true;
     }
 
-    public AddressBook getBook(String name) { return books.get(name); }
-    public List<String> bookNames() { return new ArrayList<>(books.keySet()); }
+    public AddressBook getBook(String name) {
+        return books.get(name);
+    }
 
     public boolean addContact(String bookName, Contact contact) {
         AddressBook book = books.get(bookName);
-        return book != null && book.add(contact);
+        if (book == null) {
+            return false;
+        }
+        return book.add(contact);
     }
 
-    Stream<Contact> allContacts() {
-        return books.values().stream().flatMap(book -> book.getContacts().stream());
+    // Combine contacts using a simple loop instead of nested streams.
+    public List<Contact> getAllContacts() {
+        List<Contact> allContacts = new ArrayList<>();
+        for (AddressBook book : books.values()) {
+            allContacts.addAll(book.getContacts());
+        }
+        return allContacts;
     }
 
-    // UC8: search across every book. A person in separate books is counted in each.
+    // UC8: search across all address books.
     public List<Contact> searchByCity(String city) {
-        return allContacts().filter(contact -> contact.city.equalsIgnoreCase(city.trim()))
+        return getAllContacts().stream()
+                .filter(contact -> contact.city.equalsIgnoreCase(city))
                 .collect(Collectors.toList());
     }
 
     public List<Contact> searchByState(String state) {
-        return allContacts().filter(contact -> contact.state.equalsIgnoreCase(state.trim()))
+        return getAllContacts().stream()
+                .filter(contact -> contact.state.equalsIgnoreCase(state))
                 .collect(Collectors.toList());
     }
 
-    // UC9: rebuild dictionaries from current contacts, avoiding stale indexes after edits.
+    // UC9: group people by city or state.
     public Map<String, List<Contact>> personsByCity() {
-        return allContacts().collect(Collectors.groupingBy(Contact::getCity,
-                () -> new TreeMap<>(String.CASE_INSENSITIVE_ORDER), Collectors.toList()));
+        return getAllContacts().stream()
+                .collect(Collectors.groupingBy(contact -> contact.city));
     }
 
     public Map<String, List<Contact>> personsByState() {
-        return allContacts().collect(Collectors.groupingBy(Contact::getState,
-                () -> new TreeMap<>(String.CASE_INSENSITIVE_ORDER), Collectors.toList()));
+        return getAllContacts().stream()
+                .collect(Collectors.groupingBy(contact -> contact.state));
     }
 
-    // UC10: counting() produces Long counts.
+    // UC10: count people in each city or state.
     public Map<String, Long> countByCity() {
-        return allContacts().collect(Collectors.groupingBy(Contact::getCity,
-                () -> new TreeMap<>(String.CASE_INSENSITIVE_ORDER), Collectors.counting()));
+        return getAllContacts().stream()
+                .collect(Collectors.groupingBy(contact -> contact.city, Collectors.counting()));
     }
 
     public Map<String, Long> countByState() {
-        return allContacts().collect(Collectors.groupingBy(Contact::getState,
-                () -> new TreeMap<>(String.CASE_INSENSITIVE_ORDER), Collectors.counting()));
+        return getAllContacts().stream()
+                .collect(Collectors.groupingBy(contact -> contact.state, Collectors.counting()));
     }
 
-    private List<Contact> sorted(String bookName, Comparator<Contact> comparator) {
+    // UC11: return contacts sorted by their full name.
+    public List<Contact> sortByName(String bookName) {
         AddressBook book = books.get(bookName);
-        if (book == null) return Collections.emptyList();
-        return book.getContacts().stream().sorted(comparator
-                .thenComparing(Contact::fullName, String.CASE_INSENSITIVE_ORDER))
+        if (book == null) {
+            return new ArrayList<>();
+        }
+        return book.getContacts().stream()
+                .sorted((a, b) -> a.fullName().compareToIgnoreCase(b.fullName()))
                 .collect(Collectors.toList());
     }
 
-    // UC11: alphabetical means first name, then last name, ignoring case.
-    public List<Contact> sortByName(String bookName) {
-        return sorted(bookName, Comparator.comparing(Contact::getFirstName, String.CASE_INSENSITIVE_ORDER)
-                .thenComparing(Contact::getLastName, String.CASE_INSENSITIVE_ORDER));
-    }
-
-    // UC12: separate functions; sorted copies retain contacts with equal city/state/zip.
+    // UC12: separate functions for each sorting field.
     public List<Contact> sortByCity(String bookName) {
-        return sorted(bookName, Comparator.comparing(Contact::getCity, String.CASE_INSENSITIVE_ORDER));
+        AddressBook book = books.get(bookName);
+        if (book == null) {
+            return new ArrayList<>();
+        }
+        return book.getContacts().stream()
+                .sorted((a, b) -> a.city.compareToIgnoreCase(b.city))
+                .collect(Collectors.toList());
     }
 
     public List<Contact> sortByState(String bookName) {
-        return sorted(bookName, Comparator.comparing(Contact::getState, String.CASE_INSENSITIVE_ORDER));
+        AddressBook book = books.get(bookName);
+        if (book == null) {
+            return new ArrayList<>();
+        }
+        return book.getContacts().stream()
+                .sorted((a, b) -> a.state.compareToIgnoreCase(b.state))
+                .collect(Collectors.toList());
     }
 
     public List<Contact> sortByZip(String bookName) {
-        return sorted(bookName, Comparator.comparing(Contact::getZip));
+        AddressBook book = books.get(bookName);
+        if (book == null) {
+            return new ArrayList<>();
+        }
+        return book.getContacts().stream()
+                .sorted((a, b) -> a.zip.compareTo(b.zip))
+                .collect(Collectors.toList());
     }
 }

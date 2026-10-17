@@ -18,11 +18,11 @@ java -cp out Java_LambdaExpressions.UserRegistration
 java -cp out Java_Streams.AddressBookSystem.AddressBookMain
 ```
 
-Use `--interactive` as a program argument for console registration or the full Address Book menu:
+Use `--interactive` for console registration. AddressBookMain directly asks for a book name to sort:
 
 ```powershell
 java -cp out Java_LambdaExpressions.UserRegistration --interactive
-java -cp out Java_Streams.AddressBookSystem.AddressBookMain --interactive
+java -cp out Java_Streams.AddressBookSystem.AddressBookMain
 ```
 
 `WordFrequencyCounter` reads the included sample text from the project root by default. An optional first argument supplies another file path.
@@ -90,12 +90,12 @@ Names use ASCII letters; email follows the source's classroom shape; mobile has 
 
 Folder: [Java_Streams/AddressBookSystem](src/main/java/Java_Streams/AddressBookSystem).
 
-- [Contact](src/main/java/Java_Streams/AddressBookSystem/Contact.java): all required fields, name-based equals/hashCode and complete toString. Identity uses trimmed, case-normalized first and last names. Zip stays a String to retain leading zeros.
+- [Contact](src/main/java/Java_Streams/AddressBookSystem/Contact.java): ordinary fields, a constructor, name-based equals/hashCode and toString. First and last names are compared exactly as entered. Zip stays a String to retain leading zeros.
 - [AddressBook](src/main/java/Java_Streams/AddressBookSystem/AddressBook.java): UC7 duplicate prevention with `anyMatch`; add/find/edit/delete support. The same person can exist in different books.
 - [AddressBookService](src/main/java/Java_Streams/AddressBookSystem/AddressBookService.java): UC8 `searchByCity`/`searchByState`; UC9 `personsByCity`/`personsByState`; UC10 `countByCity`/`countByState`; UC11 `sortByName`; UC12 separate `sortByCity`, `sortByState`, `sortByZip` functions. Stream grouping retains all contacts. Dictionaries are rebuilt from current data after edits/deletions.
-- [AddressBookMain](src/main/java/Java_Streams/AddressBookSystem/AddressBookMain.java): labelled UC demonstrations and an optional console menu, including UC11 console book selection and name sorting. Minimal UC1-UC6 support provides multiple named books, entry, edit and delete.
+- [AddressBookMain](src/main/java/Java_Streams/AddressBookSystem/AddressBookMain.java): three sample contacts, labelled UC7-UC12 calls and console book selection for sorting. Add/find/edit/delete remain simple AddressBook methods; there is no extra menu or command-line mode to learn.
 
-Book names are unique and case-sensitive. Place grouping/search is case-insensitive. Name sorting uses first name then last; sorting returns a new list. Zip sorting is lexicographic, appropriate for the fixed-width digit examples; no international postal ordering rule was supplied.
+Book names and duplicate-name checks are case-sensitive. City/state searches ignore case; grouping uses city/state strings exactly as entered, so use consistent spelling. Group-map iteration order is unspecified. Short comparator lambdas sort by full name, city, state or zip and return new lists. Zip sorting is lexicographic, appropriate for the fixed-width digit examples; no international postal ordering rule was supplied. This beginner version uses ordinary mutable objects/lists and simple loops instead of immutable views, Optional, flatMap or shared comparator helpers.
 
 ## Separately listed practical problems - all 20
 
