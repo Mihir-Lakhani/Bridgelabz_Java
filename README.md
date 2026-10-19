@@ -4,18 +4,19 @@ Java assignments and practice problems completed as part of the
 BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Repository Structure
-- main'
+- 'main'
 - 'develop'
 - 'feature/*': week-wise topic branches containing the solutions
 
 ================================================================
 
-| Week | Topic                       | Branch                              | Status      | Review (5) |
-|------|-----------------------------|-------------------------------------|-------------|------------|
-| 1    | Core Programming            | feature/coreProgramming             | Completed   | 3.78       |
-| 2    | Object Oriented Programming | feature/object-oriented-programming | Completed   | 3.79       |
-| 3    | DSA                         | feature/data-structure              | Completed   | 3.80       |
-| 4    | Collections & Streams       | feature/collections-streams         | In Progress | -          |
+| Week | Topic                             | Branch                              | Status      | Review (5) |
+|------|-----------------------------------|-------------------------------------|-------------|------------|
+| 1    | Core Programming                  | feature/coreProgramming             | Completed   | 3.78       |
+| 2    | Object Oriented Programming       | feature/object-oriented-programming | Completed   | 3.79       |
+| 3    | DSA                               | feature/data-structure              | Completed   | 3.80       |
+| 4.1  | Collections & Streams             | feature/collections-streams         | In Progress | 3.80       |
+| 4.2  | Regex, Exception Handling & JUnit | feature/collections-streams         | In Progress |  -         |
 
 ================================================================
 
@@ -23,7 +24,20 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
-### Day 25 - Date: 16 Oct 2026
+### Day 27 - Date: 19 Oct 2026
+**What I have done**
+- Exception Handling Questions
+- API Stream EXTRA Practice Questions
+
+**What I will do**
+- JUnit and Regex
+
+**Issues faced**
+- Topics were easier so did not feel like facing any issues
+
+================================================================
+
+### Day 26 - Date: 17 Oct 2026
 **What I have done**
 - Gave the review 4 on Collections, Java 8 features, Generics
 - Started learning about Exception Handling
@@ -41,7 +55,7 @@ Didn't get enough time to practice on questions (Will catch up soon)
 - Complete java 8 features and enhancements and Streams
 
 **What I will do**
--Start new week topics
+- Start new week topics
 
 **Issues faced**
 Didn't get enough time to practice on questions (Will catch up soon)
@@ -74,13 +88,13 @@ Didn't get enough time to practice on questions (Will catch up soon)
 
 ### Day 22 - Date: 13 Oct 2026
 **What I have done**
-Collections generics, wildcards and some other concepts
+- Collections generics, wildcards and some other concepts
 
 **What I will do**
-Complete the Questions on the Collections Dpp
+- Complete the Questions on the Collections Dpp
 
 **Issues faced**
-Fortunately none
+- Fortunately none
 
 ================================================================
 
