@@ -1,12 +1,15 @@
 package Java_ExceptionHandling;
 
-import java.util.*;
-
-
 public class Exception1 {
     public static void main(String[] args) {
+        int[] numbers = {10, 20, 30};
 
-        Scanner sc = new Scanner(System.in);
-
+        try {
+            System.out.println(numbers[3]);
+        } catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println("That position does not exist in the array.");
+        } finally {
+            System.out.println("Program finished.");
+        }
     }
 }
