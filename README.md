@@ -24,6 +24,20 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 28 - Date: 21 Oct 2026
+**What I have done**
+- Questions on Exception Handling
+- Regex on more complex Strings
+- Started learning about Java File IO
+
+**What I will do**
+- Complete Java File IO and Annotations
+
+**Issues faced**
+- Topics were easier so did not feel like facing any issues
+
+================================================================
+
 ### Day 27 - Date: 19 Oct 2026
 **What I have done**
 - Exception Handling Questions
