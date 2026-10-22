@@ -10,14 +10,14 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ================================================================
 
-| Week | Topic                             | Branch                              | Status      | Review (5) |
-|------|-----------------------------------|-------------------------------------|-------------|------------|
-| 1    | Core Programming                  | feature/coreProgramming             | Completed   | 3.78       |
-| 2    | Object Oriented Programming       | feature/object-oriented-programming | Completed   | 3.79       |
-| 3    | DSA                               | feature/data-structure              | Completed   | 3.80       |
-| 4.1  | Collections & Streams             | feature/collections-streams         | In Progress | 3.80       |
-| 4.2  | Regex, Exception Handling & JUnit | feature/collections-streams         | In Progress |  -         |
-
+| Week | Topic                               | Branch                                    | Status      | Review (5) |
+|------|-------------------------------------|-------------------------------------------|-------------|------------|
+| 1    | Core Programming                    | feature/coreProgramming                   | Completed   | 3.78       |
+| 2    | Object Oriented Programming         | feature/object-oriented-programming       | Completed   | 3.79       |
+| 3    | DSA                                 | feature/data-structure                    | Completed   | 3.80       |
+| 4.1  | Collections & Streams               | feature/collections-streams               | Completed   | 3.80       |
+| 4.2  | Regex, Exception Handling & JUnit   | feature/collections-streams               | Completed   |  -         |
+| 5    | IO, Design Patterns & Multi threads | feature/io-design-patterns-multithreading | In Progress |  -         |
 ================================================================
 
 
