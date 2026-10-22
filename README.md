@@ -74,7 +74,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 - Stream API practice on questions
 
 **Issues faced**
-Didn't get enough time to practice on questions (Will catch up soon)
+- Didn't get enough time to practice on questions (Will catch up soon)
 
 ================================================================
 
@@ -86,7 +86,7 @@ Didn't get enough time to practice on questions (Will catch up soon)
 - Start new week topics
 
 **Issues faced**
-Didn't get enough time to practice on questions (Will catch up soon)
+- Didn't get enough time to practice on questions (Will catch up soon)
 
 ================================================================
 
