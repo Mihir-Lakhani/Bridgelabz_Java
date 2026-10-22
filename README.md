@@ -24,6 +24,19 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 29 - Date: 22 Oct 2026 (took leave due to headache)
+**What I have done**
+- Java File IO
+- Java Annotations
+
+**What I will do**
+- Third Party Library and TDD
+
+**Issues faced**
+- Remembering file io code syntax
+
+================================================================
+
 ### Day 28 - Date: 21 Oct 2026
 **What I have done**
 - Questions on Exception Handling
