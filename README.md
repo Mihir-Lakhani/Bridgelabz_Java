@@ -18,6 +18,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 | 4.1  | Collections & Streams                | feature/collections-streams               | Completed   | 3.80       |
 | 4.2  | Regex, Exception Handling & JUnit    | feature/collections-streams               | Completed   |  -         |
 | 5    | IO, Design Patterns & Multithreading | feature/io-design-patterns-multithreading | In Progress |  -         |
+
 ================================================================
 
 
