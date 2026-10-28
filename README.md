@@ -16,7 +16,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 | 2    | Object Oriented Programming          | feature/object-oriented-programming       | Completed   | 3.79       |
 | 3    | DSA                                  | feature/data-structure                    | Completed   | 3.80       |
 | 4.1  | Collections & Streams                | feature/collections-streams               | Completed   | 3.80       |
-| 4.2  | Regex, Exception Handling & JUnit    | feature/collections-streams               | Completed   |  -         |
+| 4.2  | Regex, Exception Handling & JUnit    | feature/collections-streams               | Completed   | 3.79       |
 | 5    | IO, Design Patterns & Multithreading | feature/io-design-patterns-multithreading | In Progress |  -         |
 
 ================================================================
@@ -24,6 +24,68 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 
 ## Daily Task Update
+
+### Day 34 - Date: 28 Oct 2026
+**What I have done**
+- Extra SQL Commands 
+
+**What I will do**
+- Start JDBC
+
+**Issues faced**
+- None, Just could not get much time 
+
+================================================================
+
+### Day 33 - Date: 27 Oct 2026
+**What I have done**
+- SQL Commands and ways to work on databases
+- Worked on a problem statement given in the GCR
+
+**What I will do**
+- Complete the current topic and start JDBC
+
+**Issues faced**
+- Did not get enough time to do the task
+
+================================================================
+
+### Day 32 - Date: 26 Oct 2026
+**What I have done**
+-  Set up MySql and learnt the basics of DBMS
+
+**What I will do**
+- Complete all DBMS tasks
+
+**Issues faced**
+- None, as DBMS is familiar
+
+================================================================
+
+### Day 31 - Date: 25 Oct 2026
+**What I have done**
+- Started Java Multithreading
+
+**What I will do**
+- Complete multithreading, remaining design patterns
+
+**Issues faced**
+- Understanding the use of Volatile keyword
+
+================================================================
+
+### Day 30 - Date: 24 Oct 2026
+**What I have done**
+- Design Patterns and a few principles
+
+**What I will do**
+- Complete Design Patterns
+- Start Multithreading and TDD
+
+**Issues faced**
+- None
+
+================================================================
 
 ### Day 29 - Date: 22 Oct 2026 (took leave due to headache)
 **What I have done**
