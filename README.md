@@ -17,7 +17,9 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 | 3    | DSA                                  | feature/data-structure                    | Completed   | 3.80       |
 | 4.1  | Collections & Streams                | feature/collections-streams               | Completed   | 3.80       |
 | 4.2  | Regex, Exception Handling & JUnit    | feature/collections-streams               | Completed   | 3.79       |
-| 5    | IO, Design Patterns & Multithreading | feature/io-design-patterns-multithreading | In Progress |  -         |
+| 5    | IO, Design Patterns & Multithreading | feature/io-design-patterns-multithreading | In Progress | 3.79       |
+| 6-7  | MySQL, ER Diagrams & JDBC            | feature/MySQL-ERDiagrams-JDBC             | In Progress |  -         |
+| 8-9  | Java Backend & SpringBoot            |   feature/backend-springboot              | In Progress |  -         |
 
 ================================================================
 
@@ -25,15 +27,29 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 35 - Date: 29 Oct 2026
+- **What I have done**
+- Started Spring Boot
+- Studied about Maven
+- A bit of Spring Core
+
+**What I will do**
+- Spring Core Implementations
+
+**Issues faced**
+- None fortunately
+
+================================================================
+
 ### Day 34 - Date: 28 Oct 2026
 **What I have done**
-- Extra SQL Commands 
+- Extra SQL Commands
 
 **What I will do**
 - Start JDBC
 
 **Issues faced**
-- None, Just could not get much time 
+- None, Just could not get much time
 
 ================================================================
 
