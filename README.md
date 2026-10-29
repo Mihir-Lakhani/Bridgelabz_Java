@@ -19,7 +19,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 | 4.2  | Regex, Exception Handling & JUnit    | feature/collections-streams               | Completed   | 3.79       |
 | 5    | IO, Design Patterns & Multithreading | feature/io-design-patterns-multithreading | Completed   | 3.79       |
 | 6-7  | MySQL, ER Diagrams & JDBC            | feature/MySQL-ERDiagrams-JDBC             | In Progress |  -         |
-| 8-9  | Java Backend & SpringBoot            |   feature/backend-springboot              | In Progress |  -         |
+| 8-9  | Java Backend & SpringBoot            | feature/backend-springboot                | In Progress |  -         |
 
 ================================================================
 
