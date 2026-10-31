@@ -27,6 +27,31 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 
 ## Daily Task Update
 
+### Day 37 - Date: 31 Oct 2026
+**What I have done**
+- Built a small UseCase Project on my own implementing Spring Core knowledge
+
+**What I will do**
+- Start Spring Boot Application
+
+**Issues faced**
+- None fortunately
+
+================================================================
+
+### Day 36 - Date: 30 Oct 2026
+**What I have done**
+- IOC Container, Beans and its lifecycle
+- Beans Scope
+
+**What I will do**
+- Spring Boot Applications and Servlet
+
+**Issues faced**
+- None fortunately
+
+================================================================
+
 ### Day 35 - Date: 29 Oct 2026
 **What I have done**
 - Started Spring Boot
