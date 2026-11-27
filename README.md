@@ -21,7 +21,7 @@ BridgeLabz training program. Assignments are taken from Google Classroom (GCR).
 | 6-7  | MySQL, ER Diagrams & JDBC            | feature/MySQL-ERDiagrams-JDBC             | Completed   | 3.79       |
 | 8-9  | Java Backend & SpringBoot            | feature/backend-springboot                | Completed   | 3.79       |
 | 10   | SpringBoot Advanced                  | feature/springboot-advanced               | Completed   | 3.79       |
-| 11   | HTML, CSS, JavaScript                | feature/html-css-javascript               | Completed   |   -        |
+| 11   | HTML, CSS, JavaScript                | feature/html-css-javascript               | Completed   | 3.76       |
 | 12   | React                                | feature/react                             | Completed   |   -        |
 
 ================================================================
